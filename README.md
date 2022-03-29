@@ -1,6 +1,7 @@
 # Identifying LncRNA and circRNA Biomarkers in Adult Febrile Patients of Malaria and CoVID-19 Using RNA-seq
 
 ## Background
+![image](https://github.com/omicscodeathon/circrna_biomarker/blob/main/figures/bckg_11.jpg)
 The pathogenesis of infectious diseases depends on the interaction of host and pathogen.
 Patients with malaria always present overlapping clinical presentation like COVID-19 infection.
 Many febrile patients are misdiagnosed due to the paucity of seroprevalence data malaria and COVID-19 coinfection.
