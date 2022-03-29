@@ -31,3 +31,12 @@ We hypothesize that the transcriptomic profiles from febrile patient with malari
 
 
 ##### 
+
+## Team 
+1. NZUNGIZE Lambert Data collection and Analysis
+2. Brenda Muthoni   Data collection and Analysis
+3. Arnaud Kengne-Ouafo Jonas Data collection and Analysis
+4. kivumbi Mark Tefero  Github content
+5. Margaret Wanjiku  Manuscript writing
+6. Brenda Kiage    Manuscript writing
+7. UMUHOZA Diane   Manuscript writing
