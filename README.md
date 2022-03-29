@@ -23,4 +23,8 @@ We hypothesize that the transcriptomic profiles from febrile patient with malari
 ![image](https://github.com/omicscodeathon/circrna_biomarker/blob/main/figures/wk.png)
 
 
+## Workflow 
+![image](https://github.com/omicscodeathon/circrna_biomarker/blob/main/figures/wk2.jpg)
+
+
 ##### 
