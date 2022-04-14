@@ -30,6 +30,11 @@ We hypothesize that the transcriptomic profiles from febrile patient with malari
 ![image](https://github.com/omicscodeathon/circrna_biomarker/blob/main/figures/wk3.jpg)
 
 
+
+## Results
+Quality control of dataset (i.e Quality control of one COVID-19 patient). 
+![image](https://github.com/omicscodeathon/circrna_biomarker/blob/main/figures/QC-COVID19_p1.png)
+
 ##### 
 
 ## Team 
