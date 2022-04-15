@@ -1,31 +1,117 @@
-COVID-19
-1. mRNA isolated from whole blood of adult Covid-19 patients, bacterial coinfection with Covid-19 and healthy controls in a South Indian cohort. (Whole blood transcriptome from Covid-19 patients in India) Project: PRJNA807370
+COVID-19 Data (accessions #: GSM5728979 and GSM5071014)
 
-2. blood transcriptome in non-critically ill and critically ill covid-19 patients. Project: PRJNA638753
+asymptomatic_whole blood (c_t250_day_1 [R11001])
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/077/SRR13665377/SRR13665377_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/077/SRR13665377/SRR13665377_2.fastq.gz
 
-3. molecular profiles of blood samples from 231 COVID-19 patients. Project: PRJEB43380
-4. While co-pathogens were identified in SARS-CoV-2 infected patients Project: PRJEB47870
-5. The profiling of host responses to SARS-CoV-2 infection provide insight into COVID-19 pathogenesis and potential biomarkers for improving COVID-19 patient management. Project: PRJNA702830
+asymptomatic_whole blood (c_t298_day_1 [R11030])
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/003/SRR13665403/SRR13665403_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/003/SRR13665403/SRR13665403_2.fastq.gz
 
-6. profiles of blood monocyte subsets in COVID patients Project: PRJNA735729
-7. whole-blood transcriptome of COVID-19 Project: PRJNA692253
+asymptomatic_whole blood(c_t285_day_1 [R11021])
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/097/SRR13665397/SRR13665397_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/097/SRR13665397/SRR13665397_2.fastq.gz
 
-8. PBMCs from 48 COVID-19 patients. Project: PRJNA744408
+asymptomatic_whole blood (c_t281_day_1 [R11018_R])
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/094/SRR13665394/SRR13665394_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/094/SRR13665394/SRR13665394_2.fastq.gz
 
-Malaria Data 
+Mild_whole blood (C_T011 Day 11 [R10834_R])
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/007/SRR13665407/SRR13665407_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/007/SRR13665407/SRR13665407_2.fastq.gz
 
-1. Interactive Transcriptome Analysis of Malaria Patients and Infecting Plasmodium falciparum in Indonesia. Project: PRJDB2573 (RNA-Seq analysis of 116 Indonesian malaria patients)
+Moderate_whole blood (C_T112 Day 11 [R10862_R])
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/010/SRR13665410/SRR13665410_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/010/SRR13665410/SRR13665410_2.fastq.gz
 
-2. Profiling gene expression of the host response to an irradiated sporozoite immunization and Plasmodium vivax malaria challenge Project: PRJNA337969
-3. Longitudinal profiling of the whole blood transcriptional response of human volunteers to repeated malaria challenge. Project: PRJNA723325
-4. Birds were infected with either the high-virulent lineage Plasmodium relictum Project: PRJEB35047
-5. Arthropod-borne viruses (arboviruses) and malaria Project: PRJNA707068
+Severe_whole blood(C_S005 Day 8 [R10866_R2])
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/012/SRR13665412/SRR13665412_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/012/SRR13665412/SRR13665412_2.fastq.gz
 
-6. A longitudinal pediatric cohort of 150 healthy children was recruited in Banfora, Burkina Faso. Project: PRJNA603577
+PBMCs_COVID-19_alpha_patient
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/079/SRR17197379/SRR17197379_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/079/SRR17197379/SRR17197379_2.fastq.gz
 
-7. RNA-sequencing on whole blood of C57BL/6 mice infected with Plasmodium berghei Project: PRJEB43641
+PBMCs_COVID-19_alpha_patient
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/093/SRR17197393/SRR17197393_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/093/SRR17197393/SRR17197393_2.fastq.gz
 
-8. RNA blood of mice infected or challenged with a broad spectrum of infectious pathogens, including parasites (Toxoplasma gondii), bacteria (Burkholderia pseudomallei), viruses (Influenza A virus and Respiratory Syncytial virus (RSV)) . Project: PRJEB43641
+PBMCs_COVID-19_Gamma_patient
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/095/SRR17197395/SRR17197395_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/095/SRR17197395/SRR17197395_2.fastq.gz
 
-9. Metagenomic sequencing of blood from patients suffering from a variety of vector-borne diseases, including malaria, borreliosis, anaplasmosis, babesiosis and mansonelliasis. Project: PRJNA518922
+PBMCs_COVID-19_Gamma_patient
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/096/SRR17197396/SRR17197396_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/096/SRR17197396/SRR17197396_2.fastq.gz
+
+
+Control(accessions #: GSM5066836 and GSM5527499)
+
+PBMCs_Healthy_1
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/079/SRR13639979/SRR13639979_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/079/SRR13639979/SRR13639979_2.fastq.gz
+
+PBMCs_Healthy_2
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/080/SRR13639980/SRR13639980_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/080/SRR13639980/SRR13639980_2.fastq.gz
+
+PBMCs_Healthy_3
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/081/SRR13639981/SRR13639981_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/081/SRR13639981/SRR13639981_2.fastq.gz
+
+PBMCs_Healthy_4
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/082/SRR13639982/SRR13639982_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/082/SRR13639982/SRR13639982_2.fastq.gz
+
+
+
+Malaria Data (accessions #: GSE52166)
+
+019b
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/008/SRR1026878/SRR1026878_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/008/SRR1026878/SRR1026878_2.fastq.gz
+
+025b
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/000/SRR1026880/SRR1026880_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/000/SRR1026880/SRR1026880_2.fastq.gz
+
+029b
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/003/SRR1026883/SRR1026883_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/003/SRR1026883/SRR1026883_2.fastq.gz
+
+039b
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/008/SRR1026888/SRR1026888_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/008/SRR1026888/SRR1026888_2.fastq.gz
+
+047b
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/000/SRR1026890/SRR1026890_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/000/SRR1026890/SRR1026890_2.fastq.gz
+
+049b
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/003/SRR1026893/SRR1026893_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/003/SRR1026893/SRR1026893_2.fastq.gz
+
+070b
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/009/SRR1026899/SRR1026899_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/009/SRR1026899/SRR1026899_2.fastq.gz
+
+089b
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/001/SRR1026901/SRR1026901_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/001/SRR1026901/SRR1026901_2.fastq.gz
+
+273b
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/003/SRR1026943/SRR1026943_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/003/SRR1026943/SRR1026943_2.fastq.gz
+
+274b
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/005/SRR1026945/SRR1026945_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/005/SRR1026945/SRR1026945_2.fastq.gz
+
+277b
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/009/SRR1026949/SRR1026949_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR102/009/SRR1026949/SRR1026949_2.fastq.gz
+
+
+
+
 
