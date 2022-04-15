@@ -26,6 +26,18 @@ We hypothesize that the transcriptomic profiles from febrile patient with malari
 ![image](https://github.com/omicscodeathon/circrna_biomarker/blob/main/figures/wk.png)
 
 
+## Our Target
+Non-coding RNAs (ncRNA) are divided into two sections small non-coding RNAs and long non-coding RNAs(lncRNA). Normally, the ncRNAs with less than 200 nucleotides are classified as shorter such as tRNAs, miRNAs, snoRNAs, siRNAs, and rRNAs while ncRNAs with more than 200 nucleotides and unlikely to encode proteins are classified as 
+
+**LncRNA** can: 
+1. Regulate gene at the transcriptional level (by interacting with DNA, RNA and proteins)
+2. Modulate chromatin structure
+3. Affect RNA splicing
+3. Modulating histone
+![image](https://github.com/omicscodeathon/circrna_biomarker/blob/main/figures/our_target_1.png)
+
+
+
 ## Workflow 
 ![image](https://github.com/omicscodeathon/circrna_biomarker/blob/main/figures/workflow_1.png)
 
