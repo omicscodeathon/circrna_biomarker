@@ -34,7 +34,7 @@ Non-coding RNAs (ncRNA) are divided into two sections small non-coding RNAs and 
 2. Modulate chromatin structure
 3. Affect RNA splicing
 3. Modulating histone
-![image](https://github.com/omicscodeathon/circrna_biomarker/blob/main/figures/our_target_1.png)
+![image](https://github.com/omicscodeathon/circrna_biomarker/blob/main/figures/our_target_2.png)
 
 
 
