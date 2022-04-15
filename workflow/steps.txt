@@ -1,6 +1,20 @@
 Steps: [Convert the steps into workflow diagram (include tools for each step) and update README.md]
 . Pull down the reads
-.
+
+1. Download raw data from repositories using wget (https://www.gnu.org/software/wget/)
+
+2. Quality control with FastQC tool (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+
+3. Trimming to remove bad reads using Trimmomatic (http://www.usadellab.org/cms/?page=trimmomatic)
+
+4. Mapping reads to reference genome with Bowtie2 (http://bowtie-bio.sourceforge.net/bowtie2/index.shtml) and Tophat (https://ccb.jhu.edu/software/tophat/index.shtml)
+
+5. Assembled transcriptome with Cufflinks tool (http://cole-trapnell-lab.github.io/cufflinks/)
+
+6. Differential expression genes using R packcge know as edgeR (https://bioconductor.org/packages/release/bioc/html/edgeR.html)
+
+7. Functional analysis using David web based tool (https://david.ncifcrf.gov/home.jsp)
+
 .
 .
 .
