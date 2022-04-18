@@ -50,10 +50,10 @@ Quality control of dataset (i.e Quality control of one COVID-19 patient).
 ##### 
 
 ## Team 
-1. NZUNGIZE Lambert Data collection and Analysis
-2. Brenda Muthoni   Data collection and Analysis
-3. Arnaud Kengne-Ouafo Jonas Data collection and Analysis
-4. kivumbi Mark Tefero  Github content
-5. Margaret Wanjiku  Manuscript writing
-6. Brenda Kiage    Manuscript writing
-7. UMUHOZA Diane   Manuscript writing
+1. NZUNGIZE Lambert, Data collection and Analysis, Email: nzulapa@outlook.com, CRID, Cameroon.
+2. Brenda Muthoni, Data collection and Analysis
+3. Arnaud Kengne-Ouafo Jonas, Data collection and Analysis, Email: jakengne@gmail.com, CRID, Cameroon.
+4. kivumbi Mark Tefero, Github content
+5. Margaret Wanjiku, Manuscript writing
+6. Brenda Kiage, Manuscript writing, Email: kiagebrenda@gmail.com, Pwani University, Kenya.
+7. UMUHOZA Diane, Manuscript writing, Email: ddumuhoza@gmail.com, RAB-Rwanda.
