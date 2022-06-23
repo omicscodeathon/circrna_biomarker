@@ -1,0 +1,30 @@
+﻿
+GEO accession
+Sample status
+Accession number
+Type of patients
+GSM5728979
+COVID-19
+PRJNA787951
+Symptomatic Patient
+GSM5066836
+Control
+PRJNA699856
+Heathly
+GSM5527499
+Control
+PRJNA717662
+Heathly
+GSM5071014
+COVID-19
+PRJNA700863
+Symptomatic patients
+GSM5071014
+COVID-19
+PRJNA700863
+Asymptomatic patients
+GSE52166
+Malaria
+PRJNA227074
+Infected patients from Mali
+
