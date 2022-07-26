@@ -21,7 +21,7 @@ Differentiate the etiology of febrile patient if is either malaria or COVID-19.
  2. Determine differentially expressed genes and synergistic pathways involved.
 
 ## Hypothesis
-We hypothesize that the transcriptomic profiles from febrile patient with malaria  and COVID-19 are associated with the overlapping symptoms. 
+We hypothesized that the transcriptomic profiles from febrile patient with malaria  and COVID-19 are associated with the overlapping symptoms. 
 
 ## Methodology | Overall flow of the experimental design
 ![image](https://github.com/omicscodeathon/circrna_biomarker/blob/main/figures/wk.png)
