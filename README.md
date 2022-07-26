@@ -28,14 +28,9 @@ We hypothesize that the transcriptomic profiles from febrile patient with malari
 
 
 ## Our Target
-Non-coding RNAs (ncRNA) are divided into two sections small non-coding RNAs and long non-coding RNAs(lncRNA). Normally, the ncRNAs with less than 200 nucleotides are classified as shorter such as tRNAs, miRNAs, snoRNAs, siRNAs, and rRNAs while ncRNAs with more than 200 nucleotides and unlikely to encode proteins are classified as 
-
-**LncRNA** can: 
-1. Regulate gene at the transcriptional level (by interacting with DNA, RNA and proteins)
-2. Modulate chromatin structure
-3. Affect RNA splicing
-3. Modulating histone
-![image](https://github.com/omicscodeathon/circrna_biomarker/blob/main/figures/our_target_2.png)
+To improve our understanding in immne responses for a patient with malaria and COVID-19 as coinfection.
+We undertook transcriptomics data to identify gene expression patterns within a patient with 
+either malaria or COVID-19.
 
 
 
@@ -51,9 +46,9 @@ Quality control of dataset (i.e Quality control of one COVID-19 patient).
 ##### 
 
 ## Team 
-1. NZUNGIZE Lambert, Data collection and Analysis, Email: nzulapa@outlook.com, CRID, Cameroon.
+1. NZUNGIZE Lambert, Data collection and Analysis, Email: nzulapa@outlook.com, CRID/LSTM, Cameroon.
 2. Brenda Muthoni, Data collection and Analysis
-3. Arnaud Kengne-Ouafo Jonas, Data collection and Analysis, Email: jakengne@gmail.com, CRID, Cameroon.
+3. Arnaud Kengne-Ouafo Jonas, Data collection and Analysis, Email: jakengne@gmail.com, CRID/LSTM, Cameroon.
 4. kivumbi Mark Tefero, Github content, Email: markkivumbi@gmail.com, Pwani University, Kenya.
 5. Margaret Wanjiku, Manuscript writing
 6. Brenda Kiage, Manuscript writing, Email: kiagebrenda@gmail.com, Pwani University, Kenya.
