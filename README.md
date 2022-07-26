@@ -1,4 +1,5 @@
-# Identifying LncRNA and circRNA Biomarkers in Adult Febrile Patients of Malaria and CoVID-19 Using RNA-seq
+# Identifying biomarkers in adult febrile patients of malaria and COVID-19 using RNA-seq data
+
 
 ![image](https://github.com/omicscodeathon/circrna_biomarker/blob/main/figures/bckg_11.jpg)
 ## Background
